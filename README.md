@@ -2,10 +2,15 @@
 
 A full-stack personal finance management web application built using Flask and SQLite.
 
+> My first full-stack web application built after completing Class 12.
+
+---
+
 ## 🚀 Live Demo
 
-Deployed on Render:
 https://finance-tracker-yl2x.onrender.com
+
+---
 
 ## 📌 Features
 
@@ -18,6 +23,8 @@ https://finance-tracker-yl2x.onrender.com
 - Expense Analytics
 - Balance Calculation
 - Responsive UI
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -42,22 +49,6 @@ https://finance-tracker-yl2x.onrender.com
 
 ---
 
-
-
-### Dashboard
-<img width="1918" height="896" alt="image" src="https://github.com/user-attachments/assets/c549497f-01d8-41a6-a52f-2770eb7b9b4d" />
-
-
-### Add Transaction
-<img width="1887" height="880" alt="image" src="https://github.com/user-attachments/assets/3c23bcfb-f918-496c-983a-2271c0a05c73" />
-
-
-### Login Page
-<img width="1913" height="899" alt="image" src="https://github.com/user-attachments/assets/5233f66e-345d-4936-9eaa-8ee2864ab56c" />
-
-
----
-
 ## ⚙️ Installation
 
 Clone the repository:
@@ -66,7 +57,7 @@ Clone the repository:
 git clone https://github.com/shreeshpokharel-stack/finance_tracker.git
 ```
 
-Navigate to the project folder:
+Move into the project folder:
 
 ```bash
 cd finance_tracker
@@ -84,7 +75,7 @@ Run the application:
 python main.py
 ```
 
-Open in browser:
+Open in your browser:
 
 ```text
 http://127.0.0.1:5000
@@ -94,19 +85,23 @@ http://127.0.0.1:5000
 
 ## 📂 Project Structure
 
+```text
 finance_tracker/
 │
 ├── main.py
 ├── requirements.txt
-├── finance.db
+├── README.md
+├── Procfile
+│
 ├── static/
-│ └── style.css
+│   └── style.css
 │
 └── templates/
-├── login.html
-├── register.html
-├── dashboard.html
-└── add_transaction.html
+    ├── login.html
+    ├── register.html
+    ├── dashboard.html
+    └── add_transaction.html
+```
 
 ---
 
@@ -114,16 +109,33 @@ finance_tracker/
 
 - Dark Mode
 - Monthly Budget Goals
-- Expense Predictions
 - CSV Export
-- PostgreSQL Database
+- PostgreSQL Integration
 - AI Expense Insights
+- Mobile-Friendly UI
 
 ---
 
 ## 👨‍💻 Author
 
-Shreesh Pokharel
+**Shreesh Pokharel**
+
+## 📷 Screenshots
+
+### 🔐 Login Page
+
+<img width="1913" height="899" alt="Screenshot 2026-05-25 215310" src="https://github.com/user-attachments/assets/bfd3713d-7712-4d87-b3f4-fe45fbfa8925" />
+
+
+### 📊 Dashboard
+
+<img width="1918" height="896" alt="Screenshot 2026-05-25 214500" src="https://github.com/user-attachments/assets/32eefbfb-e5df-456c-ba24-c65530816e5d" />
+
+
+### 💳 Add Transaction
+
+<img width="1887" height="880" alt="Screenshot 2026-05-25 214307" src="https://github.com/user-attachments/assets/f9780448-51e7-4517-a3b5-66d48422426d" />
+
 
 GitHub:
 https://github.com/shreeshpokharel-stack
