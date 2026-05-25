@@ -5,7 +5,7 @@ A full-stack personal finance management web application built using Flask and S
 ## 🚀 Live Demo
 
 Deployed on Render:
-(Add your Render link here)
+https://finance-tracker-yl2x.onrender.com
 
 ## 📌 Features
 
@@ -42,16 +42,16 @@ Deployed on Render:
 
 ---
 
-## 📷 Screenshots
+
 
 ### Dashboard
-(Add screenshot here)
+
 
 ### Add Transaction
-(Add screenshot here)
+
 
 ### Login Page
-(Add screenshot here)
+
 
 ---
 
